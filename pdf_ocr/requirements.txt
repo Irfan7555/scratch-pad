@@ -1,0 +1,6 @@
+streamlit
+easyocr
+pymupdf
+torch
+torchvision
+numpy
